@@ -1,0 +1,52 @@
+{
+     "prefix": "#",
+     "namalu" : "Its Me Sasha Chan",
+     "nomerlu": "62887433094409",
+     "namabot": "Rikka Isurugi",
+     "nomerbot": "6288289252040",
+     "gender" : "FEMALE",
+     "copyright" : "Foxteam",
+     "Shopee" : "0887433094409",
+     "Gopay" : "0887433094409",
+     "Dana" : "0887433094409",
+     "Ovo" : "0887433094409",
+     "namaDocument": "ʜᴇᴋɪʀᴀ ɴᴏ ᴛᴇɴ",
+     "joinGcExtream": true,
+     "Anticall": false,
+     "multi": true,
+     "onepref" : false,
+     "publik": true,
+     "forwarding": false,
+     "antitroli" : false,
+     "autovn" : true,
+     "autosticker" : false,
+     "autorespon" : false,
+     "autotyping" : false,
+     "autoread" : true,
+     "katalogMenu": false,
+     "troliMenu": false,
+     "lokasiMenu": true,
+     "documentMenu": false,
+     "autoblockcmd" : true,
+     "autoWelcome": false,
+     "welcomeType1": false,
+     "welcomeType2": false,
+     "welcomeType3": true,
+     "chatBot" : false,
+     "teksChat" : "Gada menu",
+     "totalForward" : 1000000,
+     "explain": false,
+     "gamewaktu": 60,
+	 "limitCount": 30,
+	 "gcount": {
+		"prem": 30,
+		"user": 20
+},
+    
+     "zeks": "officialdittaz", 
+     "zenzkey": "officialdittaz",
+     "xteam": "170342e43e147afa"
+}
+
+   
+   
