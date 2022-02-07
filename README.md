@@ -1,44 +1,22 @@
-<div align="center">
-<img src="https://i.pinimg.com/736x/d5/93/d9/d593d9b5d4908a2c89b5a8a71eefbe4c.jpg" alt="YOGI" width="170" />
+# Rikka isurugi bot
 
-## SELF-BOTZ
-## yah gua ga punya api
-</div>
+• Hi kk aku akan bagi2 sc nih klo mau ambil sc mah izin dlu ke owner nya dan subrek channel ini yo biar semangatnya. Dan cara nya install di sini klo error chat gw syarat ss dlu channel gw + subrek dlu ya ><
 
+
+<h1 align="center">Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">
-  <a href="https://github.com/yogipw"><img title="Author" src="https://img.shields.io/badge/Author-yogipw-red.svg?style=for-the-badge&logo=github" /></a>
-</p>
-<p align="center">
-<a href="#"><img title="mengapi" src="https://img.shields.io/static/v1?label=FREE&message=SELF_BOT&color=red"></a>
-</p>
+  <img src="https://user-images.githubusercontent.com/99161705/152748346-ec230a1c-248e-41bf-8a7f-a13de81588b4.jpg" />
+</p> 
 
-# Requirements
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
-* Any text editor
-
-
-## For Termux
+------
+### TERMUX INSTALL
 ```
-> termux-setup-storage
-> apt update && apt upgrade
-> pkg install nodejs
-> pkg install git 
-> pkg install libwebp 
-> pkg install bash
-> pkg install ffmpeg
-> cd /sdcard && cd SelfBot && npm start
+CARA INSTALL NYA DI DESKRIPSI!!
 ```
 
 
-## Connect With Me
+### OWNER
 <p align="center">
- <a href="https://instagram.com/yogipw"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a><a href="https://wa.me/+62853535697153"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
-</p>
+  <a href="https://wa.me/62887433094409?text=Halo"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
 
-# Thanks To
-* [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Hexagonz`](https://github.com/hexagonz)
 
