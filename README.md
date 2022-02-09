@@ -15,5 +15,14 @@
 ### OWNER
 <p align="center">
   <a href="https://wa.me/62887433094409?text=Halo"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
+    
+### UNTUK HEROKU
+ 
+```
+FFMPEG : https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+LIBWEBP : https://github.com/clhuang/heroku-buildpack-webp-binaries
+IMAGEMAGICK : https://github.com/yespark/heroku-imagemagick-buildpack
+
+```
 
 
