@@ -6,8 +6,8 @@ return`
 *│▸* Gender : ${gender}
 *│▸* Hoby : -
 *│▸* Owner : ${nomerOwner}
-*│▸* Tgl pembuatan : 25-07-2021
-*│▸* Tgl release : 29-09-2021
+*│▸* Tgl pembuatan : 19-maret-2022
+*│▸* Tgl release : sab 19 2022
 *│▸* Image : Black Fox Rikka
 *│▸* Voice : Sasha Chan x Nina Kawaii
 *│*
@@ -16,13 +16,13 @@ return`
 *│*   X-Dev Team
 *│*   Yogi PW
 *│*   Hexagon
-*│*   Dttaz
+*│*   Yusril
 *│*
 *│▸* FEATURE  BY  
 *│*   Decode Denpa
 *│*   Fernazer
 *│*   X-Dev Team
-*│*   Resta Gamteng
+*│*   Yusril ganteng
 *│*   Zeeone Ofc
 *│*   X-Dev Team
 *│*   Yudha perdana
