@@ -474,6 +474,6 @@ ${week}, ${calender}
 *│* • Fernazer
 *│* • X - Dev Team
 *│* • XChillDs & Yuzu
-*│* • Its Me Sasha Chan
+*│* • Its Me Yusril
 *╰────────────⦁*`
 }
